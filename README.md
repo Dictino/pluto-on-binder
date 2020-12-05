@@ -3,3 +3,7 @@
 Thaks fons for doing this 😉
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dictino/pluto-on-binder/826002c)
+
+Second trial
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dictino/pluto-on-binder/407bc61?urlpath=pluto)
