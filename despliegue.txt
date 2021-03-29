@@ -1,0 +1,9 @@
+Ir a https://mybinder.org/
+
+Poner la url de github: pluto-on-binder
+
+Poner el commit para que no se acutalize solo
+
+Poner la url para que acabe en ?urlpath=pluto
+
+Crear el contenedor y copiar el enlace
