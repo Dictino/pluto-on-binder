@@ -16,4 +16,4 @@ setuptools.setup(
 # because this is a demo of Pluto, we add some popular packages to the global package env and precompile
 # not sure if it's better to put this on the Project.toml...
 import os
-os.system('julia -e "import Pkg; Pkg.add([\\"PlutoUI\\", \\"Plots\\", \\"OrdinaryDiffEq\\", \\"ModelingToolkit\\", \\"SymEngine\\", \\"LaTeXStrings\\",\\"ControlSystems\\"]); Pkg.precompile()"')
+os.system('julia -e "import Pkg; Pkg.add([\\"PlutoUI\\", \\"Plots\\", \\"OrdinaryDiffEq\\", \\"ModelingToolkit\\", \\"SymEngine\\", \\"LaTeXStrings\\",\\"ControlSystems\\",\\"Symbolics\\"]); Pkg.precompile()"')
