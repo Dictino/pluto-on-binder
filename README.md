@@ -10,4 +10,4 @@ Second trial
 
 Updated
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dictino/pluto-on-binder/381cdf1?urlpath=pluto)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dictino/pluto-on-binder/543e720?urlpath=pluto)
